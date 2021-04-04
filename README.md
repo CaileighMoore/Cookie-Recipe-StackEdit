@@ -1,4 +1,4 @@
-# **Hello-World**
+# **Cookie Recipe StackEdit**
 By Caileigh Moore
 
 This page was created to practice using StackEdit to make a similar page to the html version of Cookie Recipe.
